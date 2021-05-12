@@ -1,5 +1,4 @@
 package IteratorsAndComparators.StrategyPattern;
-//created by J.M.
 
 import java.util.Comparator;
 import java.util.Locale;

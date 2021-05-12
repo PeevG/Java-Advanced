@@ -1,5 +1,4 @@
 package IteratorsAndComparators.StrategyPattern;
-//created by J.M.
 
 public class Person {
 

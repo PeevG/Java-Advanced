@@ -1,5 +1,4 @@
 package GenericArrayCreator;
-//created by J.M.
 
 public class Main {
 

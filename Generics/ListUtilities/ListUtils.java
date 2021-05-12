@@ -1,5 +1,4 @@
 package ListUtilities;
-//created by J.M.
 
 import java.util.Collections;
 import java.util.List;

@@ -1,5 +1,4 @@
 package GenericScale;
-//created by J.M.
 
 public class Scale<T extends Comparable<T>> {
 

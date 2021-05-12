@@ -1,5 +1,4 @@
 package IteratorsAndComparators.StackIterator;
-//created by J.M.
 
 import java.util.*;
 import java.util.stream.IntStream;

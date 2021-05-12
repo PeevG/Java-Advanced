@@ -1,5 +1,3 @@
-//package IteratorsAndComparators.Collection;
-//created by J.M.
 
 import java.util.*;
 import java.util.stream.Collectors;

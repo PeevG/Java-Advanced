@@ -1,5 +1,4 @@
 package IteratorsAndComparators.ComparingObjects;
-//created by J.M.
 
 import java.util.*;
 

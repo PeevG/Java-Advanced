@@ -1,5 +1,4 @@
 package GenericBox;
-//created by J.M.
 
 public class Box <T>{
 
